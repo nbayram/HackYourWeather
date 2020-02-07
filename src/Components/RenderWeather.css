@@ -1,0 +1,11 @@
+.display {
+  display: flex;
+  justify-content: space-around;
+}
+
+.deleteButton {
+  border-radius: 50%;
+  background: white;
+  padding: 0.4rem;
+  margin-top: 1rem;
+}
